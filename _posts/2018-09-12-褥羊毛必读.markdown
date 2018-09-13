@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 褥羊毛必读(褥秃羊的开始)
-date: 2018-08-18 05:00:00 +0300
+date: 2018-09-14 05:00:00 +0300
 description: 褥羊毛必读(褥秃羊的开始) # Add post description (optional)
 img: workflow.jpg
-tags: [区块链,智能合约,以太坊,钱包架构] # add tag
+tags: [新手必读] # add tag
 ---
 
 ### 我们的特点
