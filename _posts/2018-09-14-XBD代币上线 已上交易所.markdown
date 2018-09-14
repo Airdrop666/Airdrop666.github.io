@@ -1,0 +1,33 @@
+---
+layout: post
+title: 手把手带你褥空投代币 XBD
+date: 2018-09-14 05:00:00 +0300
+description: 手把手带你褥空投代币 XBD # Add post description (optional)
+img: workflow.jpg
+tags: [已上交易所] # add tag
+---
+
+### 开始 获得XBD 
+
+XBD  当前已知上线交易所为: https://forkdelta.app/#!/trade/0xf1def7f0e620f39531eb352fe13da6825218e7df-ETH
+
+一个账户相当于50个账户，而你只需要出手续费 ， 还有少许的平台费用即可
+
+0x1e809B4024B2407727b013adC25fE8b64e60d137  往这个合约里转0.003个eth代币  gas limit 设置成 6000000  就是六百万
+ gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
+ 
+ 如下图所示
+ 
+ ![褥xbd]({{site.baseurl}}/assets/img/2018-9-14-xbd/褥xbd.png)
+ 
+ 结果就如下图所示   也可以去以太坊浏览器查此hash  0x67dd320a10f8a88be93e243eb3899fde730b28b256c346ab6e489a54f3fed9ac
+ 
+ ![褥xbd结果]({{site.baseurl}}/assets/img/2018-9-14-xbd/褥xbd结果.png)
+
+  
+  
+###  悉知
+
+最后您可以添加我们客服的微信  来提供更多你想褥的空投，我们会为您专门创建脚本  ，您也可以添加进我们的客服 进入 空投群聊 没事 褥币 吹牛逼。
+
+客服微信号 ：   parkour13579

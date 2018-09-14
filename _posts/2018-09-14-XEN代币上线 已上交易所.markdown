@@ -1,0 +1,33 @@
+---
+layout: post
+title: 手把手带你褥空投代币 XEN
+date: 2018-09-14 05:00:00 +0300
+description: 手把手带你褥空投代币 XEN # Add post description (optional)
+img: workflow.jpg
+tags: [已上交易所] # add tag
+---
+
+### 开始 获得XEN 
+
+XEN  当前已知上线交易所为: https://dexdelta.github.io/#!/trade/XEN-ETH
+
+一个账户相当于50个账户，而你只需要出手续费 ， 还有少许的平台费用即可
+
+0x08507b77782d69617e37161e43ff6fcf136a9fb0  往这个合约里转0.003个eth代币  gas limit 设置成 6000000  就是六百万
+ gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
+ 
+ 如下图所示
+ 
+ ![褥xen]({{site.baseurl}}/assets/img/2018-9-14-xen/褥xen.png)
+ 
+ 结果就如下图所示   也可以去以太坊浏览器查此hash  0xb01e6146ab5af02f593d57d37db4975259a8d6746d5aac49f336046f97cd7072
+ 
+  ![褥xen结果]({{site.baseurl}}/assets/img/2018-9-14-xen/褥xen结果.png)
+
+  
+  
+###  悉知
+
+最后您可以添加我们客服的微信  来提供更多你想褥的空投，我们会为您专门创建脚本  ，您也可以添加进我们的客服 进入 空投群聊 没事 褥币 吹牛逼。
+
+客服微信号 ：   parkour13579
