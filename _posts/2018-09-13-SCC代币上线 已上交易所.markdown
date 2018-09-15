@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 手把手带你褥空投代币 SCC
+title: 手把手带你褥空投代币 SCC 已上交易所
 date: 2018-09-13 05:00:00 +0300
-description: 手把手带你褥空投代币 SCC # Add post description (optional)
+description: 手把手带你褥空投代币 SCC 已上交易所# Add post description (optional)
 img: workflow.jpg
 tags: [已上交易所] # add tag
 ---

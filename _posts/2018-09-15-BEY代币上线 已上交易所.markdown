@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 手把手带你褥空投代币 BEY
+title: 手把手带你褥空投代币 BEY 已上交易所
 date: 2018-09-15 05:00:00 +0300
-description: 手把手带你褥空投代币 BEY # Add post description (optional)
+description: 手把手带你褥空投代币 BEY 已上交易所# Add post description (optional)
 img: workflow.jpg
 tags: [已上交易所] # add tag
 ---

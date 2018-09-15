@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 手把手带你褥空投代币 XEN
+title: 手把手带你褥空投代币 XEN 已上交易所
 date: 2018-09-14 05:00:00 +0300
-description: 手把手带你褥空投代币 XEN # Add post description (optional)
+description: 手把手带你褥空投代币 XEN 已上交易所# Add post description (optional)
 img: workflow.jpg
 tags: [已上交易所] # add tag
 ---
