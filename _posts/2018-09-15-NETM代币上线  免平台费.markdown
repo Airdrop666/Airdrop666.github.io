@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 手把手带你褥空投代币 NETM
+title: 手把手带你褥空投代币 NETM 价值投资 暂未上交易所
 date: 2018-09-15 05:00:00 +0300
-description: 手把手带你褥空投代币 NETM # Add post description (optional)
+description: 手把手带你褥空投代币 NETM 价值投资 暂未上交易所 # Add post description (optional)
 img: workflow.jpg
 tags: [价值投资] # add tag
 ---
