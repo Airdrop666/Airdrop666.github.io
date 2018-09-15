@@ -1,0 +1,33 @@
+---
+layout: post
+title: 手把手带你褥空投代币 NETM
+date: 2018-09-15 05:00:00 +0300
+description: 手把手带你褥空投代币 NETM # Add post description (optional)
+img: workflow.jpg
+tags: [价值投资] # add tag
+---
+
+### 开始 获得 NETM
+
+NETM  暂未上交易所，官网地址：www.netmchain.com  据称 11月份 上交易所，有ico
+
+一个账户相当于40个账户，而你只需要出手续费 ， 免平台费
+
+0x955074147610509817a092db3a7e353478cd1bf1  往这个合约里转0个eth代币  gas limit 设置成 4800000  就是四百八十万
+ gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
+ 
+ 如下图所示
+ 
+ ![褥netm]({{site.baseurl}}/assets/img/2018-9-15-netm/褥netm.png)
+ 
+ 结果就如下图所示   也可以去以太坊浏览器查此hash  0x304aed80f8198bf2a421418e786a0fdacb7ba7ce2fc50350d3b9e69de545a9fd
+ 
+ ![褥netm结果]({{site.baseurl}}/assets/img/2018-9-15-netm/褥netm结果.png)
+
+  
+  
+###  悉知
+
+最后您可以添加我们客服的微信  来提供更多你想褥的空投，我们会为您专门创建脚本  ，您也可以添加进我们的客服 进入 空投群聊 没事 褥币 吹牛逼。
+
+客服微信号 ：   parkour13579
