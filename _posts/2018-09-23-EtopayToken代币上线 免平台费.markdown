@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 手把手带你褥空投代币 EtopayToken 价值投资 暂未上交易所
-date: 2018-09-16 23:00:00 +0300
+date: 2018-09-23 23:00:00 +0300
 description: 手把手带你褥空投代币 EtopayToken 价值投资 暂未上交易所# Add post description (optional)
 img: workflow.jpg
 tags: [价值投资] # add tag
