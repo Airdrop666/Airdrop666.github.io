@@ -25,7 +25,7 @@ CTT介绍： 中央令牌交换，最佳交流最佳体验
  
  ![褥CTT]({{site.baseurl}}/assets/img/2018-9-28-CTT/褥CTT.png)
  
-  结果就如下图所示   也可以去以太坊浏览器查此hash  0x972275b5095b97014364fe8ab3b8f3e725aec5a45da61481af46db64a68d8928
+  结果就如下图所示   也可以去以太坊浏览器查此hash  0xa7c0a1802c2d843a4b6f603d3e9d8f0f6fd3a2da5b6b36016eeff4e567d46fc9
  
  ![褥CTT结果]({{site.baseurl}}/assets/img/2018-9-28-CTT/褥CTT结果.png)
   
