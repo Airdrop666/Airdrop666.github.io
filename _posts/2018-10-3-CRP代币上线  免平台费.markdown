@@ -1,0 +1,33 @@
+---
+layout: post
+title: 手把手带你褥空投代币 CRP 价值投资 暂未上交易所
+date: 2018-09-28 8:00:00 +0300
+description: 手把手带你褥空投代币 CRP 价值投资 暂未上交易所# Add post description (optional)
+img: workflow.jpg
+tags: [价值投资] # add tag
+---
+
+### 开始 获得CRP 
+
+CRP暂未上线交易所	
+
+一个账户相当于40个账户 而你只需要出手续费 ， 还有0的平台费用即可
+
+0xfaf8e4c46156ca346d23beb668b9276396d3d28e  往这个合约里转0个eth代币  gas limit 设置成 4800000就是四百八十万
+ gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
+ 如果不查询gas price  gas区间可以设置为 4-10，gas price 设置越高，执行越快，但是同理矿工费也越高 ， 可对比气价网站进行设置
+ 
+ 
+ 如下图所示
+ 
+ ![褥CRP]({{site.baseurl}}/assets/img/2018-10-3-CRP/褥CRP.png)
+ 
+  结果就如下图所示   也可以去以太坊浏览器查此hash  0xa7c0a1802c2d843a4b6f603d3e9d8f0f6fd3a2da5b6b36016eeff4e567d46fc9
+ 
+ ![褥CRP结果]({{site.baseurl}}/assets/img/2018-10-3-CRP/褥CRP结果.png)
+  
+###  悉知
+
+最后您可以添加我们客服的微信  来提供更多你想褥的空投，我们会为您专门创建脚本  ，您也可以添加进我们的客服 进入 空投群聊 没事 褥币 吹牛逼。
+
+客服微信号 ：   parkour13579
