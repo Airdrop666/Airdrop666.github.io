@@ -13,7 +13,7 @@ SCH  暂未上交易所，官网地址：https://sachio.net/
 
 一个账户相当于40个账户，而你只需要出矿工费 ， 免平台费
 
-0xffb233b33c9fe059b56c209b4895b61bd8d10ee8  往这个合约里转0个eth代币  gas limit 设置成 4800000  就是四百八十万
+0xffb233b33c9fe059b56c209b4895b61bd8d10ee8  往这个合约里转0个eth代币  gas limit 设置成 5200000  就是五百二十万
  gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
  
  如下图所示

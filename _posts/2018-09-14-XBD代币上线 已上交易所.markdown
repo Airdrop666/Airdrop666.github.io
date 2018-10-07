@@ -13,7 +13,7 @@ XBD  当前已知上线交易所为: https://forkdelta.app/#!/trade/0xf1def7f0e6
 
 一个账户相当于50个账户，而你只需要出手续费 ， 还有少许的平台费用即可
 
-0x1e809B4024B2407727b013adC25fE8b64e60d137  往这个合约里转0.003个eth代币  gas limit 设置成 6000000  就是六百万
+0x1e809B4024B2407727b013adC25fE8b64e60d137  往这个合约里转0.003个eth代币  gas limit 设置成 6200000  就是六百二十万
  gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
  
  如下图所示

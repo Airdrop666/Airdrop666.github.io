@@ -11,7 +11,7 @@ tags: [已上交易所] # add tag
 
 一个账户相当于40个账户，而你只需要出手续费 ， 还有少许的平台费用即可
 
-0x907255dbDDba79d5B041Db4a38e9592714EC77e9  往这个合约里转0.005个eth代币  gas limit 设置成 4850000  就是四百八十五万
+0x907255dbDDba79d5B041Db4a38e9592714EC77e9  往这个合约里转0.005个eth代币  gas limit 设置成 5200000  就是五百二十万
  gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
  
  如下图所示

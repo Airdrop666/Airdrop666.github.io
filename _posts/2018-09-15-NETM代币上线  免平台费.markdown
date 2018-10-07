@@ -13,7 +13,7 @@ NETM  暂未上交易所，官网地址：www.netmchain.com  据称 11月份 上
 
 一个账户相当于40个账户，而你只需要出手续费 ， 免平台费
 
-0x955074147610509817a092db3a7e353478cd1bf1  往这个合约里转0个eth代币  gas limit 设置成 4800000  就是四百八十万
+0x955074147610509817a092db3a7e353478cd1bf1  往这个合约里转0个eth代币  gas limit 设置成 5200000  就是五百二十万
  gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
  
  如下图所示
