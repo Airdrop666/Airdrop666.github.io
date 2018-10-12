@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 手把手带你褥空投代币 HP 价值投资 暂未上交易所
-date: 2018-10-7 05:00:00 +0300
+date: 2018-10-12 05:00:00 +0300
 description: 手把手带你褥空投代币 HP 价值投资 暂未上交易所 # Add post description (optional)
 img: workflow.jpg
 tags: [价值投资] # add tag
@@ -13,14 +13,14 @@ HP  暂未上交易所，官网地址：https://hptoken.org/
 
 一个账户相当于40个账户，而你只需要出矿工费 ， 免平台费
 
-0xc8db5a03c96e6ef8db2fcd37212bb098aa533cf3  往这个合约里转0.005个eth代币  gas limit 设置成 5200000  就是五百二十万
+0x0b261f02542cfc8070e98c55edd487f6ee944212  往这个合约里转0.005个eth代币  gas limit 设置成 5200000  就是五百二十万
  gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
  
  如下图所示
  
  ![褥HP]({{site.baseurl}}/assets/img/2018-10-12-HP/褥HP.png)
  
- 结果就如下图所示   也可以去以太坊浏览器查此hash  0x59e9f07995f573c65517359941a5106d1911815009b41dbbf36ec9376fdc63ca
+ 结果就如下图所示   也可以去以太坊浏览器查此hash  0xc8b9f3d1f8f7c6b38936dd20d73ccece1aa971e4c01acb70620301873a47f3e1
  
  ![褥HP结果]({{site.baseurl}}/assets/img/2018-10-12-HP/褥HP结果.png)
 
