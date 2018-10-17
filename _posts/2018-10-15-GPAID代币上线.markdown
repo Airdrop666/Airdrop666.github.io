@@ -13,7 +13,7 @@ GPAID  暂未上交易所，官网地址：https://educationendowmentfoundation.
 
 一个账户相当于40个账户，而你只需要出矿工费 ， 免平台费
 
-0x6da8c2d1dd3ad27c8b85ef4bd10627120daf28ec  往这个合约里转0.005个eth代币  gas limit 设置成 5200000  就是五百二十万
+0x6B635D33Dedf51F1f752CF82114111Eef8d126db  往这个合约里转0.005个eth代币  gas limit 设置成 5200000  就是五百二十万
  gas price  可以根据下面查询气价的网站来 判断 https://ethgasstation.info/index.php 
  
  如下图所示
